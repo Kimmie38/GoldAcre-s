@@ -16,7 +16,7 @@ export default function WelcomeSection() {
         <div className="w-full md:w-1/2 mt-6 md:mt-12 md:ml-8">
           <h2 className="text-4xl font-bold mb-6 text-black">Welcome to Gold Acres Learning Center</h2>
           <p className="mb-4 text-lg  text-black">
-            At Gold Acres, we believe every individual possesses hidden treasures waiting to be unearthed. Our mission is to provide a nurturing environment where learners of all abilities discover, develop, and showcase their unique strengths.
+            At Gold Acres, we believe every individual possesses hidden treasures waiting to be unearthed. Our mandate is to provide a nurturing environment where learners of all abilities discover, develop, and showcase their unique strengths.
           </p>
           <p className="mb-4 text-black text-lg">
             We foster creativity, critical thinking, and a passion for lifelong learning. Through engaging activities and personalized guidance, we empower students to shine in their own unique ways.

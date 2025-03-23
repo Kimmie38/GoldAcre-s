@@ -19,6 +19,8 @@ export default function Home() {
         <title>GoldAcres - Home</title>
         <meta name="description" content="Welcome to GoldAcres Learning Center" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" href="/logogo.svg" type="image/svg" />
+
       </Head>    
       <Navbar />
       <Hero />

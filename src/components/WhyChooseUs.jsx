@@ -17,7 +17,7 @@ const WhyChooseUs = () => {
           </div>
           <div className="bg-white text-black p-6 rounded-lg shadow-md h-80 w-full max-w-[400px] flex flex-col justify-center items-center text-center mx-auto sm:w-[90%]">
             <h3 className="text-4xl font-bold mb-2 flex items-center justify-center">
-              Mandates 
+              Mission 
               <img src="/mission.svg" alt="Vision Icon" className="ml-2 w-8 h-8" />
             </h3>
             <p className="w-10/12 font-bold">

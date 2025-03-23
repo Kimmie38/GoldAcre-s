@@ -58,7 +58,7 @@ const ContactPage = () => {
             <Link href="https://www.facebook.com/profile.php?id=61574642788236" target="_blank" className="text-blue-600 text-4xl hover:scale-110">
               <FaFacebook />
             </Link>
-            <Link href="https://www.instagram.com/joyce_pam_dusu?igsh=MWJocDgyZHMxY3Y2Ng==" target="_blank" className="text-pink-500 text-4xl hover:scale-110 w-2">
+            <Link href="https://www.instagram.com/goldacre2025?igsh=MW1ndGs3cWEzMnZ3aw==" target="_blank" className="text-pink-500 text-4xl hover:scale-110 w-2">
               <FaInstagram />
             </Link>
           </div>
