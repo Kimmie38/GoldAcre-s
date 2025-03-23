@@ -37,7 +37,7 @@ const Navbar = () => {
         }`}
       >
         <Link href="/" className="text-xl hover:text-yellow-400" onClick={() => setIsOpen(false)}>Home</Link>
-        <Link href="/more" className="text-xl hover:text-yellow-400" onClick={() => setIsOpen(false)}>About Us</Link>
+        <Link href="/about" className="text-xl hover:text-yellow-400" onClick={() => setIsOpen(false)}>About Us</Link>
         <Link href="/contact" className="text-xl hover:text-yellow-400" onClick={() => setIsOpen(false)}>Contact Us</Link>
         <Link href="/gallery" className="text-xl hover:text-yellow-400" onClick={() => setIsOpen(false)}>Gallery</Link>
         <button className="text-lg bg-yellow-500 px-6 py-2 rounded-md" onClick={() => setIsOpen(false)}>Close</button>
