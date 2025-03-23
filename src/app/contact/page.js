@@ -55,10 +55,10 @@ const ContactPage = () => {
 
           {/* Social Media Links */}
           <div className="flex justify-center space-x-6 mt-4">
-            <Link href="https://facebook.com/goldacres" target="_blank" className="text-blue-600 text-4xl hover:scale-110">
+            <Link href="https://www.facebook.com/profile.php?id=61574642788236" target="_blank" className="text-blue-600 text-4xl hover:scale-110">
               <FaFacebook />
             </Link>
-            <Link href="https://instagram.com/goldacres" target="_blank" className="text-pink-500 text-4xl hover:scale-110 w-2">
+            <Link href="https://www.instagram.com/joyce_pam_dusu?igsh=MWJocDgyZHMxY3Y2Ng==" target="_blank" className="text-pink-500 text-4xl hover:scale-110 w-2">
               <FaInstagram />
             </Link>
           </div>

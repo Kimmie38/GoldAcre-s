@@ -22,7 +22,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="text-center text-1xl mt-4 opacity-70 font-bold">
-      Motto: Only leave Discover, Develop,Thrive
+      Motto:Discover, Develop,Thrive.
       </div>
 
       {/* Copyright Section */}
